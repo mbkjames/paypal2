@@ -6,6 +6,6 @@ obi
 Legah
 moses
 we are doing testing
-testing completed
+test completed
 first trial
 second trial
