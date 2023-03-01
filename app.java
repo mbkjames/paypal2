@@ -1,4 +1,5 @@
 we support
+sonarcube applications
 java applications
 .net applications
 NodeJS applications
