@@ -1,4 +1,4 @@
-this is great
+thank you prof legah
 developing java app
 
 
