@@ -14,4 +14,3 @@ web application
 my message
 maven applications
 py application
-bug removed
