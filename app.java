@@ -1,4 +1,4 @@
-we support
+we support python applications
 sonarcube applications
 thank you prof legah
 developing java app
