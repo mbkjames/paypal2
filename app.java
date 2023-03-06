@@ -16,3 +16,7 @@ maven applications
 py application
 bug removed
 bug1 removed
+great
+this app is good
+this app is nice
+
