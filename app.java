@@ -15,4 +15,3 @@ my message
 maven applications
 py application
 bug removed
-bug1 removed
